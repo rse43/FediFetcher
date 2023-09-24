@@ -1,3 +1,8 @@
 {
-  "server": "m.rse43.com"
+  "server": "m.rse43.com",
+  "home-timeline-length": 200,
+  "max-bookmarks": 500,
+  "max-favourites": 500,
+  "max-followings": 200,
+  "max-followers": 200
 }
