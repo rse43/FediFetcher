@@ -1,5 +1,6 @@
 {
   "server": "m.rse43.com",
+  "http-timeout": 10,
   "home-timeline-length": 200,
   "max-bookmarks": 500,
   "max-favourites": 500,
